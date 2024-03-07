@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhb-oss
-- 👀 I’m interested in ...c++,machine learning and artificial inteligence
-- 🌱 I’m currently learning ...c++
-- 💞️ I’m looking to collaborate on ...C++
+- 👀 I’m interested in ...c#,Game Devolopmnet and artificial inteligence
+- 🌱 I’m currently learning ...Unity 3d 
+- 💞️ I’m looking to collaborate on ...Unity 3d 
 - 📫 How to reach me ...on 
 
 <!---
